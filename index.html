@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+    <title> Calculo de imposto </title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #f4f4f4; }
+        input { padding: 10px; margin: 5px; }
+        button { padding: 10px 20px; cursor: pointer; background: #c0103c; color: #fff; border: none; }
+        button:hover { background: #45a049; }
+        #resultado { margin-top: 20px; font-size: 20px; font-weight: bold; }
+    </style>
+
+</head>
+
+
+<body>
+    <body style="background-color: aquamarine;">
+    <h1> Calcule o seu imposto </h1>
+    <p style="color: #000000;">Calculadora digital para executar calculos do seu faturamento, taxa
+     e a partir daí, você receberá uma lista desse valor gerado contendo os meses seguinte que irá render.
+    </p>
+
+      <input type="number" id="preco" placeholder="faturamento">
+      <br> 
+      <input type="number" id="desconto" placeholder="taxa">
+      <br>
+      <button onclick="calculartaxa()" >Calcular </button>
+      <div id="resultado"> </div> 
+      <div id="listaProjecao"> </div>
+
+     <input type="button" onclick="funcao1()" value="depositar" />
+
+     
+<script>
+    
+    
+    function gerarProjecao(base, meses, calculo) {
+            let lista = "<h3>Projeção de quanto irá gerar dentro de 10 meses</h3><ul>";
+            for (let i = 0; i < meses.length; i++) {
+                const novoValor = calculo(base, i);
+                lista += `<li>${meses[i]}: R$ ${novoValor.toFixed(2)}</li>`;
+            }
+            lista += "</ul>";
+            return lista;
+        }
+
+    
+    
+    function criarSomador(valorFixo) {
+        return function (base) {
+            return base + valorFixo;
+        }
+    }
+        const somar100 = criarSomador(100)
+    
+
+    
+        function calculartaxa() {
+            const preco = parseFloat(document.getElementById("preco").value);
+            const desconto = parseFloat(document.getElementById("desconto").value);
+
+            if (isNaN(preco) || isNaN(desconto)) {
+                document.getElementById("resultado").innerText = "Por favor, insira valores válidos!";
+                return;
+            }      
+     
+ </script>
+
+ </body>
+
+</html>
+
+</div>
+
