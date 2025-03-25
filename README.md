@@ -78,9 +78,10 @@ O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas 
 ## ✅ Integrantes
 
 
-- [x] Função Lambda  
-- [x] List Comprehension (forma funcional)  
-- [x] Closure  
-- [x] Função de Alta Ordem  
+- [x] Gabriel Barboza Lima – 2315413 
+- [x] Hiago Sampaio Lacerda de Moraes – 2319002
+- [x] Isaque Freitas Melo – 2319000  
+- [x] João Victor Queiroz Pacheco – 2314706
+- [x] Natanael Barboza Lima – 2319722
 
 O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas de programação em JavaScript.
