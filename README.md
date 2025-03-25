@@ -85,3 +85,12 @@ O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas 
 - [x] Natanael Barboza Lima – 2319722
 
 O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas de programação em JavaScript.
+
+
+## Fonte de pesquisa e Auxílio
+
+ - **Chatgpt**
+   - Objetivo: Auxilio na estruturação e Correção de Bugs
+   - Url: https://chatgpt.com/share/67ddb2ee-7ad8-8013-b5ea-41ce7523358f
+    https://chatgpt.com/share/67ddb2fd-270c-8013-b75e-2c6cd988d5fb
+    https://chatgpt.com/share/67ddb307-f500-8013-8926-e7d3af243ff4
