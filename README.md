@@ -18,6 +18,12 @@ const calculoPersonalizado = (base, i) => base + (i + 1) * 10 + 100;
 
 > Implementado dentro da função calculartaxa().
 
+*Ilustração*
+
+![Foto 1 copiar](https://github.com/user-attachments/assets/51355013-d8da-4aca-b381-c25a1d1162eb)
+
+
+
 ---
 
 ### 2. Utilização de List Comprehension (forma funcional)
@@ -31,6 +37,12 @@ for (let i = 0; i < meses.length; i++) {
 }
 
 > A função aplica um cálculo a cada item da lista meses, gerando uma projeção dinâmica.
+
+
+*Ilustração*
+
+![Foto 2 copiar](https://github.com/user-attachments/assets/2a745676-c5cd-42c9-997b-0ae45a47157e)
+
 
 ---
 
@@ -47,6 +59,11 @@ function criarSomador(valorFixo) {
 
 > A função somar100 é criada a partir de criarSomador(100), mantendo o valor 100 em seu escopo.
 
+*Ilustração*
+
+![Foto 3 copiar](https://github.com/user-attachments/assets/773ec03d-7fde-4877-abaa-35f8d925ba10)
+
+
 ---
 
 ### 4. Utilização de Função de Alta Ordem
@@ -61,6 +78,12 @@ function gerarProjecao(base, meses, calculo) {
 }
 
 > A função calculo é passada como parâmetro e define a lógica da projeção.
+
+
+*Ilustração*
+
+![Foto 4 copiar](https://github.com/user-attachments/assets/1a5578dc-c3ea-445f-9b84-621fc08f78c2)
+
 
 ---
 
@@ -93,4 +116,4 @@ O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas 
    - Objetivo: Auxilio na estruturação e Correção de Bugs
    - Url: https://chatgpt.com/share/67ddb2ee-7ad8-8013-b5ea-41ce7523358f
     https://chatgpt.com/share/67ddb2fd-270c-8013-b75e-2c6cd988d5fb
-    https://chatgpt.com/share/67ddb307-f500-8013-8926-e7d3af243ff4
+    0bs: Talvez o chat fique indisponível devido ao tempo que ele determina, pensando nisso, está presente também nos arquivos, uma parte em vídeo mostrando o auxíio que ele ofereceu.
