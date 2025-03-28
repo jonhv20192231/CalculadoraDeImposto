@@ -86,25 +86,25 @@ function gerarProjecao(base, meses, calculo) {
 
 ---
 ### 5. Requisitos Funcionais
-O sistema permite que o usuário calcule o seu faturamento e a taxa, dando o resultado líquido 
+- [x] O sistema permite que o usuário calcule o seu faturamento e a taxa, dando o resultado líquido 
 do valor.  
-Ao clicar em calcular, o sistema irá efetuar o cálculo e a partir do resultado irá projetar quanto 
+- [x] Ao clicar em calcular, o sistema irá efetuar o cálculo e a partir do resultado irá projetar quanto 
 irá gerar dentro de 10 meses.  
-Quando o usuário depositar o valor, a página emitirá um alerta agradecendo pela confiança e 
+- [x] Quando o usuário depositar o valor, a página emitirá um alerta agradecendo pela confiança e 
 em seguida irá atualizar. 
-O sistema mostrará o valor calculado e irá criar a projeção de quanto irá gerar ao depositar esse 
+- [x] O sistema mostrará o valor calculado e irá criar a projeção de quanto irá gerar ao depositar esse 
 dinheiro. 
-O sistema irá oferecer um desconto de 100 reais no primeiro deposito ao depositar pela 
+- [x] O sistema irá oferecer um desconto de 100 reais no primeiro deposito ao depositar pela 
 primeira vez. 
-O sistema alertará que você recebeu um bônus de 100 reais pelo valor depositado
+- [x] O sistema alertará que você recebeu um bônus de 100 reais pelo valor depositado
 
 ---
 ### 5. Requisitos Não Funcionais
-O sistema irá calcular e projetar o valor que o usuário colocou rapidamente. 
-O sistema está disponível apenas para computador 
-O layout é responsivo, simples e objetivo no que se propõe  
-O fundo da página tem uma cor confortável para os olhos 
-O botão mudará de cor ao passar o mouse  
+- [x] O sistema irá calcular e projetar o valor que o usuário colocou rapidamente. 
+- [x] O sistema está disponível apenas para computador 
+- [x] O layout é responsivo, simples e objetivo no que se propõe  
+- [x] O fundo da página tem uma cor confortável para os olhos 
+- [x] O botão mudará de cor ao passar o mouse  
 ---
 
 ## ✅ Conclusão
