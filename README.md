@@ -130,12 +130,13 @@ O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas 
 O projeto demonstra, de forma prática e funcional, o uso de técnicas modernas de programação em JavaScript.
 
 ---
-##Papel de cada um dos Integrantes envolvido no projeto 
-● Gabriel Barboza Lima – Teste do código 
-● Hiago Sampaio Lacerda de Moraes – Documentação dos Requisitos 
-● Isaque Freitas Melo – Documentação dos Requisitos 
-● João Victor Queiroz Pacheco – Implementação do código 
-● Natanael Barboza Lima – Implementação do código 
+## ✅ Papel de cada um dos Integrantes envolvido no projeto 
+- [x] Gabriel Barboza Lima – Teste do código 
+- [x] Hiago Sampaio Lacerda de Moraes – Documentação dos Requisitos 
+- [x] Isaque Freitas Melo – Documentação dos Requisitos 
+- [x] João Victor Queiroz Pacheco – Implementação do código 
+- [x] Natanael Barboza Lima – Implementação do código 
+
 ## Fonte de pesquisa e Auxílio
 ---
 
